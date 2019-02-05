@@ -1,0 +1,14 @@
+C:\Entrega\Atividade1\TerminalBancario\bin\Debug\netcoreapp2.1\TerminalBancario.deps.json
+C:\Entrega\Atividade1\TerminalBancario\bin\Debug\netcoreapp2.1\TerminalBancario.runtimeconfig.json
+C:\Entrega\Atividade1\TerminalBancario\bin\Debug\netcoreapp2.1\TerminalBancario.runtimeconfig.dev.json
+C:\Entrega\Atividade1\TerminalBancario\bin\Debug\netcoreapp2.1\TerminalBancario.dll
+C:\Entrega\Atividade1\TerminalBancario\bin\Debug\netcoreapp2.1\TerminalBancario.pdb
+C:\Entrega\Atividade1\TerminalBancario\bin\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Entrega\Atividade1\TerminalBancario\bin\Debug\netcoreapp2.1\Atividade1POO.pdb
+C:\Entrega\Atividade1\TerminalBancario\obj\Debug\netcoreapp2.1\TerminalBancario.csprojAssemblyReference.cache
+C:\Entrega\Atividade1\TerminalBancario\obj\Debug\netcoreapp2.1\TerminalBancario.csproj.CoreCompileInputs.cache
+C:\Entrega\Atividade1\TerminalBancario\obj\Debug\netcoreapp2.1\TerminalBancario.AssemblyInfoInputs.cache
+C:\Entrega\Atividade1\TerminalBancario\obj\Debug\netcoreapp2.1\TerminalBancario.AssemblyInfo.cs
+C:\Entrega\Atividade1\TerminalBancario\obj\Debug\netcoreapp2.1\TerminalBancario.csproj.CopyComplete
+C:\Entrega\Atividade1\TerminalBancario\obj\Debug\netcoreapp2.1\TerminalBancario.dll
+C:\Entrega\Atividade1\TerminalBancario\obj\Debug\netcoreapp2.1\TerminalBancario.pdb

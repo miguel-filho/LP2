@@ -1,0 +1,9 @@
+C:\Entrega\Atividade1\Atividade1\bin\Debug\netcoreapp2.1\Atividade1POO.deps.json
+C:\Entrega\Atividade1\Atividade1\bin\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Entrega\Atividade1\Atividade1\bin\Debug\netcoreapp2.1\Atividade1POO.pdb
+C:\Entrega\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Entrega\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1POO.AssemblyInfoInputs.cache
+C:\Entrega\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1POO.AssemblyInfo.cs
+C:\Entrega\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Entrega\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1POO.pdb
+C:\Entrega\Atividade1\Atividade1\obj\Debug\netcoreapp2.1\Atividade1POO.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.deps.json
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.runtimeconfig.json
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.runtimeconfig.dev.json
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.dll
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.csprojAssemblyReference.cache
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.AssemblyInfo.cs
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.pdb
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.dll
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.pdb
+C:\Users\POSITIVO\source\repos\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.dll.config
